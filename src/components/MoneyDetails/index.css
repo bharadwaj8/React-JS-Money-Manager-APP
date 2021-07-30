@@ -1,0 +1,41 @@
+.green {
+  background-color: #ecfccb;
+  border: 2px solid #84cc16;
+}
+.blue {
+  background-color: #cffafe;
+  border: 2px solid #06b6d4;
+}
+.violet {
+  background-color: #ede9fe;
+  border: 2px solid #7c3aed;
+}
+.categories {
+  padding-left: 0px;
+  display: flex;
+}
+.category-card {
+  padding: 25px;
+  border-radius: 10px;
+  display: flex;
+  list-style: none;
+  width: 350px;
+  margin: 20px;
+}
+.icon {
+  height: 50px;
+  margin-right: 20px;
+}
+.card-text {
+  color: #7e858e;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.card-amount {
+  color: #7e858e;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: 400;
+  font-size: 25px;
+}
